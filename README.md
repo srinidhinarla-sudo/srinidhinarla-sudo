@@ -43,4 +43,4 @@ Apache Airflow ETL pipeline processing 284K+ credit card transactions through a 
 
 ### Connect
 
-[LinkedIn](#) &nbsp;·&nbsp; [Portfolio](#) &nbsp;·&nbsp; srinidhi.narla@gmail.com
+[LinkedIn](https://www.linkedin.com/in/srinidhinarla1352/) &nbsp;·&nbsp; [Portfolio](https://portfolio-srinidhi-narla.vercel.app) &nbsp;·&nbsp; srinidhi.narla@gmail.com
