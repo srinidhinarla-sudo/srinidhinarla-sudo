@@ -1,10 +1,12 @@
 # Srinidhi Narla
 
-**CS Senior @ UT Dallas** — Cybersecurity & Finance minors
+Hi! My name is Srinidhi. I am a Computer Science major with minors in Finance and Cybersecurity at UT Dallas.
 
-I've always been the kind of person who wants to know how things actually work under the hood — whether that's a car, a financial system, or a piece of software. That curiosity is what pushed me toward CS, and it's what drives most of what I build. My projects tend to sit at the edge of a few things I genuinely care about: automotive tech, fintech, security, and making sure software does exactly what it's supposed to do.
+I am passionate about building software that sits at the intersection of things I genuinely care about: automotive technology, fintech, information security, AI/ML, and sustainable tech. I have always been the kind of person who wants to understand how things work under the hood, and that curiosity is what drives most of what I build and study.
 
-Last summer I was at Novelis in Atlanta working on the data side of things, which got me deep into pipelines and large-scale data engineering. Outside of that I've been building test infrastructure for safety-critical systems — the kind of software where a bug isn't just an inconvenience. Long term I want to work on something that actually matters, ideally at the intersection of technology and sustainability.
+My skill set spans systems programming in C++ and Python, data engineering with tools like Apache Airflow and PySpark, backend development with FastAPI, and rigorous software testing including model-based generation, fuzzing, and CI/CD automation. Last summer I worked at Novelis in Atlanta on the data engineering side, which gave me hands-on experience building large-scale pipelines in a real production environment.
+
+My long term goal is to work on technology that has a meaningful impact, ideally somewhere at the intersection of engineering and sustainability. I want to build systems that are not just functional but correct, efficient, and built to last.
 
 Currently looking for **SWE, data engineering, embedded systems, and ML engineering** roles.
 
